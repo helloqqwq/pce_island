@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>版本：v1.3.7 | 平台：Windows x64 | 闭源软件</strong>
+  <strong>版本：v1.3.7 | 平台：Windows x64</strong>
 </p>
 
 ---
@@ -362,7 +362,7 @@ PCE-Island 是一款 Windows 桌面增强应用，将系统信息、工具、游
 
 ## 版权声明
 
-本项目为闭源软件，全部版权归 **helloqqwq** 所有。
+本项目全部版权归 **helloqqwq** 所有。
 
 - 未经作者书面授权，禁止复制、修改、分发本软件的任何部分
 - 禁止将本软件用于商业目的
